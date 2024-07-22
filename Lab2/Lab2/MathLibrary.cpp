@@ -112,7 +112,7 @@ float Equation4VI(float dis, float time, float acc)
 }
 float Equation4Time(float v1, float dis, float acc)
 {
-    return ((2 * v1) + ((acc * dis) / 2));
+    return (-v1 + sqrt(pow(v1, 2) - 4 *(1/2 * acc) * -dis))/(2* (1/2 *acc));
 }
 float Equation4ACC(float v1, float time, float dis)
 {
