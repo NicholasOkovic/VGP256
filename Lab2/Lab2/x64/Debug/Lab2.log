@@ -1,4 +1,27 @@
-﻿  Main.cpp
+﻿  EquationsOfMotion.cpp
+D:\LaSalleProjects\Math&PhysicsForGames\VGP256\Lab2\Lab2\EquationsOfMotion.cpp(11,11): warning C4101: 'finalVelocity': unreferenced local variable
+D:\LaSalleProjects\Math&PhysicsForGames\VGP256\Lab2\Lab2\EquationsOfMotion.cpp(66,11): warning C4101: 'initalVelocity': unreferenced local variable
+D:\LaSalleProjects\Math&PhysicsForGames\VGP256\Lab2\Lab2\EquationsOfMotion.cpp(138,11): warning C4101: 'averageVelocity': unreferenced local variable
+D:\LaSalleProjects\Math&PhysicsForGames\VGP256\Lab2\Lab2\EquationsOfMotion.cpp(137,11): warning C4101: 'time': unreferenced local variable
+D:\LaSalleProjects\Math&PhysicsForGames\VGP256\Lab2\Lab2\EquationsOfMotion.cpp(187,11): warning C4101: 'displacement': unreferenced local variable
+D:\LaSalleProjects\Math&PhysicsForGames\VGP256\Lab2\Lab2\EquationsOfMotion.cpp(186,11): warning C4101: 'averageVelocity': unreferenced local variable
+D:\LaSalleProjects\Math&PhysicsForGames\VGP256\Lab2\Lab2\EquationsOfMotion.cpp(235,11): warning C4101: 'averageVelocity': unreferenced local variable
+D:\LaSalleProjects\Math&PhysicsForGames\VGP256\Lab2\Lab2\EquationsOfMotion.cpp(233,11): warning C4101: 'acceleration': unreferenced local variable
+  Main.cpp
   MathLibrary.cpp
+D:\LaSalleProjects\Math&PhysicsForGames\VGP256\Lab2\Lab2\MathLibrary.cpp(11,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\LaSalleProjects\Math&PhysicsForGames\VGP256\Lab2\Lab2\MathLibrary.cpp(22,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\LaSalleProjects\Math&PhysicsForGames\VGP256\Lab2\Lab2\MathLibrary.cpp(25,48): warning C4244: '+=': conversion from 'double' to '_Ty', possible loss of data
+D:\LaSalleProjects\Math&PhysicsForGames\VGP256\Lab2\Lab2\MathLibrary.cpp(25,48): warning C4244:         with
+D:\LaSalleProjects\Math&PhysicsForGames\VGP256\Lab2\Lab2\MathLibrary.cpp(25,48): warning C4244:         [
+D:\LaSalleProjects\Math&PhysicsForGames\VGP256\Lab2\Lab2\MathLibrary.cpp(25,48): warning C4244:             _Ty=float
+D:\LaSalleProjects\Math&PhysicsForGames\VGP256\Lab2\Lab2\MathLibrary.cpp(25,48): warning C4244:         ]
+D:\LaSalleProjects\Math&PhysicsForGames\VGP256\Lab2\Lab2\MathLibrary.cpp(32,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\LaSalleProjects\Math&PhysicsForGames\VGP256\Lab2\Lab2\MathLibrary.cpp(43,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\LaSalleProjects\Math&PhysicsForGames\VGP256\Lab2\Lab2\MathLibrary.cpp(46,48): warning C4244: '+=': conversion from 'double' to '_Ty', possible loss of data
+D:\LaSalleProjects\Math&PhysicsForGames\VGP256\Lab2\Lab2\MathLibrary.cpp(46,48): warning C4244:         with
+D:\LaSalleProjects\Math&PhysicsForGames\VGP256\Lab2\Lab2\MathLibrary.cpp(46,48): warning C4244:         [
+D:\LaSalleProjects\Math&PhysicsForGames\VGP256\Lab2\Lab2\MathLibrary.cpp(46,48): warning C4244:             _Ty=float
+D:\LaSalleProjects\Math&PhysicsForGames\VGP256\Lab2\Lab2\MathLibrary.cpp(46,48): warning C4244:         ]
   Generating Code...
-  Lab2.vcxproj -> C:\Users\lcv2242596\Documents\GitHub\VGP256\Lab2\x64\Debug\Lab2.exe
+  Lab2.vcxproj -> D:\LaSalleProjects\Math&PhysicsForGames\VGP256\Lab2\x64\Debug\Lab2.exe

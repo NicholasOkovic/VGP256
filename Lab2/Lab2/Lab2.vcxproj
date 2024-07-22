@@ -127,10 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="EquationsOfMotion.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="MathLibrary.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="EquationsOfMotion.h" />
     <ClInclude Include="MathLibrary.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
